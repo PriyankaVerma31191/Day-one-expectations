@@ -6,7 +6,7 @@
 #- Both have been to Singapore
 #-Both worked  previously
 
-2.Rhea
+2.@Rhea
 #-Both are married
 #-we have worked as professionals
 
@@ -22,11 +22,11 @@
 #-Italian cuisine
 #-cooking
 
-8.Pooja 
+8.@Pooja 
 #-both wants to upskill
 #-we both like cooking
 
-9. Ceara Mckenna
+9.@Ceara Mckenna
 #-Both like cooking
 
 10.@Nathan
