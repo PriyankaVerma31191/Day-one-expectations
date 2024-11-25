@@ -1,14 +1,15 @@
 Expectations for Coaches
 
-Provide guidance when needed
-Provide structure when learning new concepts
-Responses to questions in a timely manner
-To include everyone
-Be easily approachable so we can feel comfortable around them
+1.Provide guidance when needed
+2.Provide structure when learning new concepts
+3.Responses to questions in a timely manner
+4.To include everyone
+5.Be easily approachable so we can feel comfortable around them
+
 Expectations for Ourselves
 
-Maintain consistent attendance
-Try to code for at least 30 mins everyday
-Finished assigned work in a timely manner
-Ask questions when we have any
-Help other students whenever they need assistance
+1.Maintain consistent attendance
+2.Try to code for at least 30 mins everyday
+3.Finished assigned work in a timely manner
+4.Ask questions when we have any
+5.Help other students whenever they need assistance
