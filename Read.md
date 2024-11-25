@@ -9,7 +9,7 @@
 #-Both are married
 #-we have worked as professionals
 3.@nisha 4.@Murielle 5.@Shrideen
-#-We both putup in melbourne
+#-We both stay in melbourne
 #-we bot have visited  
 6.@Shrieen @shrideen
 #-we both are from India
